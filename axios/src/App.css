@@ -1,0 +1,12 @@
+.container {
+  max-width: 1920px;
+  margin: 2rem auto;
+  padding: 0 2rem;
+}
+
+.slides {
+  width: 1920px;
+  height: 1280px;
+  text-align: center;
+  margin: 0 -312px auto;
+}
